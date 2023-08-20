@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="Area">
+        <item>ALL</item>
+        <item>Dhaka</item>
+        <item>Barisal</item>
+        <item>Chittagong</item>
+        <item>Khulna</item>
+        <item>Mymensingh</item>
+        <item>Sylhet</item>
+        <item>Rangpur</item>
+        <item>Rajshahi</item>
+
+    </string-array>
+</resources>
